@@ -1,0 +1,2 @@
+# ReceiptGenerator
+ OOP Project

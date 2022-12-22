@@ -1,0 +1,13 @@
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.exe.config
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.application
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.exe
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.Form1.resources
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.Properties.Resources.resources
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.Welcome.resources
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen1.csproj.GenerateResource.Cache
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen1.csproj.CoreCompileInputs.cache
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.application
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.exe
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.pdb

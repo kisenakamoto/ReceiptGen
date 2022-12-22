@@ -1,0 +1,77 @@
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.config
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.pdb
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csprojResolveAssemblyReference.cache
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Form1.resources
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Properties.Resources.resources
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.GenerateResource.Cache
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.CoreCompileInputs.cache
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe
+C:\Users\gembencito\source\repos\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.pdb
+E:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.config
+E:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe
+E:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.pdb
+E:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csprojResolveAssemblyReference.cache
+E:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Form1.resources
+E:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Properties.Resources.resources
+E:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.GenerateResource.Cache
+E:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe
+E:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.pdb
+G:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.config
+G:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe
+G:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.pdb
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csprojResolveAssemblyReference.cache
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Form1.resources
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Properties.Resources.resources
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.GenerateResource.Cache
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.CoreCompileInputs.cache
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.pdb
+G:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.manifest
+G:\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.application
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe.manifest
+G:\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.application
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.config
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.application
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.pdb
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csprojResolveAssemblyReference.cache
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Form1.resources
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Properties.Resources.resources
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.GenerateResource.Cache
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.CoreCompileInputs.cache
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.application
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe
+C:\Users\gembencito\Desktop\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.pdb
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.exe.config
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.application
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.exe
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\bin\Debug\ReceiptGen.pdb
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.csprojResolveAssemblyReference.cache
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.Properties.Resources.resources
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.csproj.GenerateResource.Cache
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.csproj.CoreCompileInputs.cache
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.application
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.exe
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.pdb
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.Welcome.resources
+C:\Users\gembencito\Desktop\ReceiptGen - Copy\ReceiptGen\obj\Debug\ReceiptGen.Form1.resources
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.config
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.application
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.exe
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\bin\Debug\ReceiptGen.pdb
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csprojResolveAssemblyReference.cache
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Form1.resources
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Properties.Resources.resources
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.Welcome.resources
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.GenerateResource.Cache
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.csproj.CoreCompileInputs.cache
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe.manifest
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.application
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.exe
+C:\Users\gembencito\Dropbox\OOP Project\ReceiptGen\ReceiptGen\obj\Debug\ReceiptGen.pdb
